@@ -2,6 +2,7 @@ name: sctest
 favicon: null
 layout_spectrum: 0.24796
 typography_spectrum: 0.21072
+title: SC Test
 cta:
   domain: null
   bucket: null
